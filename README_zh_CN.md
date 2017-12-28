@@ -3,7 +3,7 @@
 ![minio_JAVA1](https://github.com/minio/minio-java-rest-example/blob/master/docs/screenshots/minio-JAVA1.jpg?raw=true)
 
 
-本示例将会指导你如何使用[Minio Server](https://docs.minio.io/docs/minio-quickstart-guide)和[Minio Java Client SDK](https://docs.minio.io/docs/java-client-quickstart-guide)构建一个非常简单的基于Java的RESTful服务。
+本示例将会指导你如何使用[Minio Server](https://docs.minio.io/docs/minio-quickstart-guide)和[Minio Java Client SDK](https://docs.minio.io/docs/java-client-quickstart-guide)构建一个非常简单的Java RESTful服务。
 
 
 基于REST的应用通常是给移动端和web客户端提供服务。我们在本示例中创建的PhotoAPI Service将会给[Android Photo App](https://docs.minio.io/docs/android-photo-app)和[Swift Photo App](https://docs.minio.io/docs/swift-photo-app)提供服务。
